@@ -1,9 +1,9 @@
-TinDog
+# TinDog
 
-Desktop view
+## Desktop view
 
 ![](/assets/tindog_desktop.gif)
 
-Mobile View
+## Mobile View
 
 ![](/assets/tindog_mobile.gif)
